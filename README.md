@@ -14,4 +14,9 @@ following [Topics in Economic Theory (2017 A1)](http://www.oyama.e.u-tokyo.ac.jp
 
 ## Papers
 
-*
+* D. Samet (1998a),
+  "Iterated Expectations and Common Priors," Games and economic Behavior 24, 131-141.
+* D. Samet (1998b),
+  "Common Priors and Separation of Convex Sets," Games and Economic Behavior 24, 172-174.
+* C. M. Leister, Y. Zenou, and J. Zhou (2017),
+  "[Coordination on Networks](https://ssrn.com/abstract=3061825)."
