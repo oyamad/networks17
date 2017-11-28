@@ -20,3 +20,8 @@ following [Topics in Economic Theory (2017 A1)](http://www.oyama.e.u-tokyo.ac.jp
   "Common Priors and Separation of Convex Sets," Games and Economic Behavior 24, 172-174.
 * C. M. Leister, Y. Zenou, and J. Zhou (2017),
   "[Coordination on Networks](https://ssrn.com/abstract=3061825)."
+
+## Links
+
+* [ミニカンファレンス「ネットワーク科学と経済学の接点」](https://www.dropbox.com/s/2fxwew4gcd1qpv8/miniconf17_program.pdf?dl=0),
+  University of Tokyo, December 9, 2017
